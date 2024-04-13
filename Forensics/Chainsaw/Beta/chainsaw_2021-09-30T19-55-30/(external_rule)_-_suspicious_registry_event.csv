@@ -1,0 +1,54 @@
+system_time,id,detection_rules,computer_name,Event.EventData.Details,target_object
+2021-06-28 00:24:25,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Win
+dows Defender\MSASCui.exe"
+2021-06-28 00:26:51,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Int
+ernet Explorer\iexplore.exe"
+2021-06-28 00:48:04,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\openlogic-openjdk-8u262-b10
+-windows-x64\openlogic-openjdk-8u262-b10
+-win-64\bin\java.exe"
+2021-06-28 00:48:06,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\openlogic-openjdk-8u262-b10
+-windows-x64\openlogic-openjdk-8u262-b10
+-win-64\bin\java.exe"
+2021-06-28 01:02:18,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\apache-tomcat-10.0.7-window
+s-x64\apache-tomcat-10.0.7\bin\startup.b
+at"
+2021-07-15 23:36:18,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\SIGN.IE=02E00 drdoom
+4.exe"
+2021-07-15 23:37:38,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\SIGN.IE=02E00 drdoom
+4.exe"
+2021-07-20 02:05:06,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\nssm.exe"
+2021-07-20 02:07:48,13,+ New Application in AppCompat,"""EC2AMAZ-37OM3IA.avengers.local""",Binary Data,"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\nssm.exe"
+2021-07-26 19:15:15,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-37OM3IA.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1289706306-3983423081-19877
+52752-500\SOFTWARE\Sysinternals\PsInfo\E
+ulaAccepted"

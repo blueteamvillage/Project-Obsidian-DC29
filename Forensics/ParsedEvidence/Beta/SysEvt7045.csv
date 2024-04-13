@@ -1,0 +1,12 @@
+Date,ServiceName,ServicePath,ServiceUser
+2021-06-15 19:05:52,MpKsld6af4f2b,C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{907F2FBB-598C-438E-81B3-61C0705FA412}\MpKslDrv.sys,
+2021-06-15 19:47:24,Sysmon64,C:\Windows\Sysmon64.exe,LocalSystem
+2021-06-15 19:47:24,SysmonDrv,C:\Windows\SysmonDrv.sys,
+2021-06-15 19:47:47,winlogbeat,"C:\Program Files\winlogbeat\winlogbeat.exe" -environment=windows_service -c "C:\Program Files\winlogbeat\winlogbeat.yml" -path.home "C:\Program Files\winlogbeat" -path.data "C:\ProgramData\winlogbeat" -path.logs "C:\ProgramData\winlogbeat\logs" -E logging.files.redirect_stderr=true,LocalSystem
+2021-06-27 12:43:35,MpKslead2980e,C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{DB11B8EC-FC22-4E84-9C48-1C0F94A44273}\MpKslDrv.sys,
+2021-06-29 13:57:48,PSEXESVC,%SystemRoot%\PSEXESVC.exe,LocalSystem
+2021-07-20 14:56:47,PSEXESVC,%SystemRoot%\PSEXESVC.exe,LocalSystem
+2021-07-20 14:58:03,PSEXESVC,%SystemRoot%\PSEXESVC.exe,LocalSystem
+2021-07-20 14:58:37,PSEXESVC,%SystemRoot%\PSEXESVC.exe,LocalSystem
+2021-07-20 16:52:13,PSEXESVC,%SystemRoot%\PSEXESVC.exe,LocalSystem
+2021-07-26 12:11:03,pmem,C:\Users\ADMINI~1\AppData\Local\Temp\pme9C0B.tmp,

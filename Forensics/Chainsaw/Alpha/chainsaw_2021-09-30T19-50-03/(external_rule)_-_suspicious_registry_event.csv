@@ -1,0 +1,262 @@
+system_time,id,detection_rules,computer_name,Event.EventData.Details,target_object
+2021-06-28 00:22:33,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Win
+dows Defender\MSASCui.exe"
+2021-06-28 01:34:01,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Int
+ernet Explorer\iexplore.exe"
+2021-06-29 20:57:26,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-C831NP5.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Sysinternals\PsExec\E
+ulaAccepted"
+2021-06-30 01:20:41,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\Firefox Installer.exe"
+2021-06-30 01:20:51,13,+ Regsvr32 Network Activity,"""EC2AMAZ-C831NP5.avengers.local""","C:\Program Files\Mozilla Firefox\Accessi
+bleMarshal.dll","HKCR\CLSID\{1814CEEB-49E2-407F-AF99-FA75
+5A7D2607}\InProcServer32\(Default)"
+2021-06-30 01:20:51,13,+ Regsvr32 Network Activity,"""EC2AMAZ-C831NP5.avengers.local""","C:\Program Files\Mozilla Firefox\Accessi
+bleHandler.dll","HKCR\CLSID\{DCA8D857-1A63-4045-8F36-8809
+EB093D04}\InProcServer32\(Default)"
+2021-06-30 01:25:08,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Wir
+eshark\Wireshark.exe"
+2021-06-30 01:31:08,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\AppData\Local\Programs\Microsoft VS C
+ode\Code.exe"
+2021-06-30 01:31:11,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\AppData\Local\Programs\Microsoft VS C
+ode\Code.exe"
+2021-06-30 01:58:08,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Wir
+eshark\Wireshark.exe"
+2021-07-02 00:06:48,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\OfficeSetup.exe"
+2021-07-02 00:06:57,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Com
+mon Files\microsoft shared\ClickToRun\Of
+ficeC2RClient.exe"
+2021-07-02 00:09:46,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\OfficeSetup.exe"
+2021-07-02 00:09:51,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Mic
+rosoft Office\root\Office16\EXCEL.EXE"
+2021-07-02 00:10:00,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Com
+mon Files\microsoft shared\ClickToRun\Of
+ficeC2RClient.exe"
+2021-07-03 01:43:12,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\.DEFAULT\Software\Microsoft\Windows 
+NT\CurrentVersion\AppCompatFlags\Compati
+bility Assistant\Store\C:\Program Files 
+(x86)\Microsoft OneDrive\StandaloneUpdat
+er\OneDriveSetup.exe"
+2021-07-03 01:43:17,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\.DEFAULT\Software\Microsoft\Windows 
+NT\CurrentVersion\AppCompatFlags\Compati
+bility Assistant\Store\C:\Program Files 
+(x86)\Microsoft OneDrive\21.109.0530.000
+1\FileSyncConfig.exe"
+2021-07-11 02:19:41,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\.DEFAULT\Software\Microsoft\Windows 
+NT\CurrentVersion\AppCompatFlags\Compati
+bility Assistant\Store\C:\Program Files 
+(x86)\Microsoft OneDrive\StandaloneUpdat
+er\OneDriveSetup.exe"
+2021-07-11 02:19:46,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\.DEFAULT\Software\Microsoft\Windows 
+NT\CurrentVersion\AppCompatFlags\Compati
+bility Assistant\Store\C:\Program Files 
+(x86)\Microsoft OneDrive\21.119.0613.000
+1\FileSyncConfig.exe"
+2021-07-15 23:13:27,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\Firefox Installer.exe"
+2021-07-15 23:26:45,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Moz
+illa Firefox\firefox.exe"
+2021-07-15 23:26:46,13,+ Regsvr32 Network Activity,"""EC2AMAZ-C831NP5.avengers.local""","C:\Program Files\Mozilla Firefox\Accessi
+bleHandler.dll","HKCR\CLSID\{DCA8D857-1A63-4045-8F36-8809
+EB093D04}\InProcServer32\(Default)"
+2021-07-15 23:26:46,13,+ Regsvr32 Network Activity,"""EC2AMAZ-C831NP5.avengers.local""","C:\Program Files\Mozilla Firefox\Accessi
+bleMarshal.dll","HKCR\CLSID\{1814CEEB-49E2-407F-AF99-FA75
+5A7D2607}\InProcServer32\(Default)"
+2021-07-15 23:27:44,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\drdoom.exe"
+2021-07-15 23:27:46,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\drdoom.exe"
+2021-07-15 23:32:27,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\drdoom4.exe"
+2021-07-15 23:34:35,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\drdoom4.exe"
+2021-07-19 23:23:10,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Moz
+illa Firefox\firefox.exe"
+2021-07-19 23:25:15,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\fuzz.exe"
+2021-07-19 23:25:17,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\fuzz.exe"
+2021-07-19 23:28:44,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\fuzz1.exe"
+2021-07-20 00:05:03,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Mic
+rosoft Office\root\Office16\EXCEL.EXE"
+2021-07-20 00:13:33,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\fuzz1.exe"
+2021-07-20 00:15:01,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\nssm.exe"
+2021-07-20 00:16:04,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\Downloads\nssm.exe"
+2021-07-20 01:04:51,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Mic
+rosoft Office\root\vfs\ProgramFilesCommo
+nX64\Microsoft Shared\OFFICE16\MSOXMLED.
+EXE"
+2021-07-20 01:04:57,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Mic
+rosoft Office\root\vfs\ProgramFilesCommo
+nX64\Microsoft Shared\OFFICE16\MSOXMLED.
+EXE"
+2021-07-20 01:33:24,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Program Files\Mic
+rosoft Office\root\vfs\ProgramFilesCommo
+nX64\Microsoft Shared\OFFICE16\MSOXMLED.
+EXE"
+2021-07-20 01:42:50,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\AppData\Roaming\Microsoft\Windows\Sta
+rt Menu\Programs\Startup\nssm.exe"
+2021-07-20 01:44:12,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\AppData\Roaming\Microsoft\Windows\Sta
+rt Menu\Programs\Startup\nssm.exe"
+2021-07-20 02:01:33,13,+ New Application in AppCompat,"""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Windows NT\
+CurrentVersion\AppCompatFlags\Compatibil
+ity Assistant\Store\C:\Users\Administrat
+or\AppData\Roaming\Microsoft\Windows\Sta
+rt Menu\Programs\Startup\nssm.exe"
+2021-07-20 21:56:26,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-C831NP5.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Sysinternals\PsExec\E
+ulaAccepted"
+2021-07-20 21:57:42,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-C831NP5.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Sysinternals\PsExec\E
+ulaAccepted"
+2021-07-20 21:58:16,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-C831NP5.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Sysinternals\PsExec\E
+ulaAccepted"
+2021-07-20 22:53:24,13,+ Regsvr32 Network Activity,"""EC2AMAZ-C831NP5.avengers.local""","C:\Program Files\Mozilla Firefox\Accessi
+bleHandler.dll","HKCR\CLSID\{DCA8D857-1A63-4045-8F36-8809
+EB093D04}\InProcServer32\(Default)"
+2021-07-20 22:53:24,13,+ Regsvr32 Network Activity,"""EC2AMAZ-C831NP5.avengers.local""","C:\Program Files\Mozilla Firefox\Accessi
+bleMarshal.dll","HKCR\CLSID\{1814CEEB-49E2-407F-AF99-FA75
+5A7D2607}\InProcServer32\(Default)"
+2021-07-20 22:56:02,13,"+ Windows Registry Trust
+Record Modification","""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Office\16.0
+\Excel\Security\Trusted Documents\TrustR
+ecords\%USERPROFILE%/Downloads/FinDoc.xl
+sm"
+2021-07-20 22:56:03,13,"+ Windows Registry Trust
+Record Modification","""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Office\16.0
+\Excel\Security\Trusted Documents\TrustR
+ecords\%USERPROFILE%/Downloads/FinDoc.xl
+sm"
+2021-07-20 22:58:49,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-C831NP5.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Sysinternals\ProcDump
+\EulaAccepted"
+2021-07-20 23:00:00,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-C831NP5.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Sysinternals\ProcDump
+\EulaAccepted"
+2021-07-20 23:40:32,13,"+ Windows Registry Trust
+Record Modification","""EC2AMAZ-C831NP5.avengers.local""",Binary Data,"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Microsoft\Office\16.0
+\Excel\Security\Trusted Documents\TrustR
+ecords\%USERPROFILE%/Downloads/FinDoc.xl
+sm"
+2021-07-20 23:51:52,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-C831NP5.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Sysinternals\PsExec\E
+ulaAccepted"
+2021-07-26 18:27:47,13,"+ Usage of Sysinternals
+Tools","""EC2AMAZ-C831NP5.avengers.local""",DWORD (0x00000001),"HKU\S-1-5-21-1976052002-3724303175-15995
+32400-500\SOFTWARE\Sysinternals\PsInfo\E
+ulaAccepted"

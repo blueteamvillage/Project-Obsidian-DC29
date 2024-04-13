@@ -1,0 +1,16 @@
+system_time,id,detection_rules,computer_name,Event.EventData.TargetFilename,image
+2021-07-02 00:09:44,11,"+ Suspicious desktop.ini
+Action","""EC2AMAZ-C831NP5.avengers.local""",C:\Users\Default\OneDrive\desktop.ini,"C:\Program Files (x86)\Microsoft OneDriv
+e\21.030.0211.0002\FileSyncConfig.exe"
+2021-07-20 00:17:47,11,"+ Cred Dump Tools Dropped
+Files","""EC2AMAZ-C831NP5.avengers.local""","C:\Users\Administrator\Downloads\Procdum
+p\procdump64.exe",C:\Windows\Explorer.EXE
+2021-07-20 23:00:00,11,"+ LSASS Memory Dump File
+Creation","""EC2AMAZ-C831NP5.avengers.local""","C:\Users\Administrator\Downloads\dbg.tmp
+.dmp","C:\Users\Administrator\Desktop\procdump6
+4.exe"
+2021-07-20 23:42:03,11,"+ Suspicious Program Location
+with Network Connections
++ Execution from Suspicious
+Folder","""EC2AMAZ-C831NP5.avengers.local""","C:\Users\Administrator\Downloads\acid.ex
+e",C:\Users\Public\6062.exe

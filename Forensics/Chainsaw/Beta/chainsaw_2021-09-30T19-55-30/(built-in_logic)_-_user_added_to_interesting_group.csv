@@ -1,0 +1,3 @@
+system_time,id,computer,change_type,user_sid,target_group
+2021-06-16 02:45:56,4732,"""EC2AMAZ-37OM3IA""",User added to local group,"""S-1-5-21-77158341-200536399-1262024157-512""","""Administrators"""
+2021-06-28 00:24:00,4732,"""EC2AMAZ-37OM3IA.avengers.local""",User added to local group,"""S-1-5-21-77158341-200536399-1262024157-1114""","""Administrators"""

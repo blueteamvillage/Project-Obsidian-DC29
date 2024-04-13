@@ -1,0 +1,459 @@
+system_time,id,detection_rules,computer_name,Event.EventData.TargetFilename,image
+2021-06-28 00:27:26,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\ROOT\index.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:27,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\docs\appdev\sample\web\he
+llo.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\async\async1
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\async\async3
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\async\index.
+jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\cal\cal1.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\cal\cal2.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\checkbox\che
+ckresult.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\colors\colrs
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\dates\date.j
+sp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\error\err.js
+p",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\error\errorp
+ge.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\forward\forw
+ard.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\forward\one.
+jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\include\foo.
+jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\include\incl
+ude.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\el\basi
+c-arithmetic.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\el\basi
+c-comparisons.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\el\comp
+osite.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\el\func
+tions.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:30,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\el\impl
+icit-objects.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\jspattr
+ibute\jspattribute.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\jspattr
+ibute\shuffle.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\misc\co
+nfig.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\misc\dy
+namicattrs.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\simplet
+ag\book.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\simplet
+ag\hello.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\simplet
+ag\repeat.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\tagfile
+s\hello.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\tagfile
+s\panel.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsp2\tagfile
+s\products.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsptoserv\he
+llo.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\jsptoserv\js
+ptoservlet.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\num\numguess
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\plugin\plugi
+n.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\security\pro
+tected\error.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\security\pro
+tected\index.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\security\pro
+tected\login.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\sessions\car
+ts.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\simpletag\fo
+o.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\snp\snoop.js
+p",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\tagplugin\ch
+oose.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:31,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\tagplugin\fo
+reach.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\tagplugin\if
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\examples\jsp\xml\xml.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\host-manager\index.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\host-manager\WEB-INF\jsp\
+401.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\host-manager\WEB-INF\jsp\
+403.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\host-manager\WEB-INF\jsp\
+404.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\index.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\WEB-INF\jsp\401.j
+sp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\WEB-INF\jsp\403.j
+sp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\WEB-INF\jsp\404.j
+sp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\WEB-INF\jsp\conne
+ctorCerts.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\WEB-INF\jsp\conne
+ctorCiphers.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\WEB-INF\jsp\conne
+ctorTrustedCerts.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\WEB-INF\jsp\sessi
+onDetail.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:27:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-8.5.68-windows-x64\apache-tomcat-
+8.5.68\webapps\manager\WEB-INF\jsp\sessi
+onsList.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:32,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\ROOT\index.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:33,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\docs\appdev\sample\web\he
+llo.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\async\async1
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\async\async3
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\async\index.
+jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\cal\cal1.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\cal\cal2.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\checkbox\che
+ckresult.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\colors\colrs
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\dates\date.j
+sp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\error\err.js
+p",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\error\errorp
+ge.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\forward\forw
+ard.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\forward\one.
+jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\include\foo.
+jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:36,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\include\incl
+ude.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\el\basi
+c-arithmetic.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\el\basi
+c-comparisons.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\el\comp
+osite.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\el\func
+tions.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\el\impl
+icit-objects.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\jspattr
+ibute\jspattribute.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\jspattr
+ibute\shuffle.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\misc\co
+nfig.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\misc\dy
+namicattrs.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\simplet
+ag\book.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\simplet
+ag\hello.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\simplet
+ag\repeat.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\tagfile
+s\hello.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\tagfile
+s\panel.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsp2\tagfile
+s\products.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsptoserv\he
+llo.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\jsptoserv\js
+ptoservlet.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\num\numguess
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\plugin\plugi
+n.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\security\pro
+tected\error.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:37,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\security\pro
+tected\index.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\security\pro
+tected\login.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\sessions\car
+ts.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\simpletag\fo
+o.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\snp\snoop.js
+p",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\tagplugin\ch
+oose.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\tagplugin\fo
+reach.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\tagplugin\if
+.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\examples\jsp\xml\xml.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\host-manager\index.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\host-manager\WEB-INF\jsp\
+401.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\host-manager\WEB-INF\jsp\
+403.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\host-manager\WEB-INF\jsp\
+404.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\index.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\WEB-INF\jsp\401.j
+sp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\WEB-INF\jsp\403.j
+sp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\WEB-INF\jsp\404.j
+sp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\WEB-INF\jsp\conne
+ctorCerts.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\WEB-INF\jsp\conne
+ctorCiphers.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\WEB-INF\jsp\conne
+ctorTrustedCerts.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\WEB-INF\jsp\sessi
+onDetail.jsp",C:\Windows\Explorer.EXE
+2021-06-28 00:30:38,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\manager\WEB-INF\jsp\sessi
+onsList.jsp",C:\Windows\Explorer.EXE
+2021-07-20 01:51:10,11,+ Windows Webshell Creation,"""EC2AMAZ-37OM3IA.avengers.local""","C:\Users\Administrator\Downloads\apache-
+tomcat-10.0.7-windows-x64\apache-tomcat-
+10.0.7\webapps\cmd\cmd.jsp","C:\Users\Administrator\Downloads\openlog
+ic-openjdk-8u262-b10-windows-x64\openlog
+ic-openjdk-8u262-b10-win-64\jre\bin\java
+.exe"

@@ -1,0 +1,18 @@
+system_time,id,computer,threat_name,threat_file,user
+2021-07-20 02:01:18,1116,"""EC2AMAZ-C831NP5.avengers.local""","""VirTool:MSIL/Covent.A""","""file:_C:\\Users\\Administrator\\AppData
+\\Roaming\\Microsoft\\Windows\\Start Men
+u\\Programs\\Startup\\nssm.exe; process:
+_pid:4320,ProcessStart:13271219127969844
+5; startup:_C:\\Users\\Administrator\\Ap
+pData\\Roaming\\Microsoft\\Windows\\Star
+t Menu\\Programs\\Startup\\nssm.exe""","""NT AUTHORITY\\SYSTEM"""
+2021-07-21 02:01:25,1116,"""EC2AMAZ-C831NP5.avengers.local""","""VirTool:MSIL/Covent.A""","""file:_C:\\Users\\Administrator\\Downloa
+ds\\acid.exe; file:_C:\\Windows\\System3
+2\\Tasks\\AcidBurn->(UTF-16LE); regkey:_
+HKLM\\SOFTWARE\\Microsoft\\Windows NT\\C
+urrentVersion\\Schedule\\TaskCache\\Task
+s\\{D17B8668-B45D-4B82-8360-B74F7947050C
+}; regkey:_HKLM\\SOFTWARE\\Microsoft\\Wi
+ndows NT\\CurrentVersion\\Schedule\\Task
+Cache\\Tree\\AcidBurn; taskscheduler:_C:
+\\Windows\\System32\\Tasks\\AcidBurn""","""NT AUTHORITY\\SYSTEM"""
