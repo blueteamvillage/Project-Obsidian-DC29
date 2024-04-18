@@ -4,8 +4,12 @@
 
 Slides and Data from BTV DC29 Capstone (forensics) workshop
 
-Additional Data can be downloaded from the BTV media server at:
-https://media.blueteamvillage.org/Workshops/ForensicsTable/
+Forensics Collection Data can be found here:
+https://github.com/blueteamvillage/Project-Obsidian-DC29/tree/main/Forensics/Collection
+
+Memory dumps can be found here:
+https://github.com/blueteamvillage/Project-Obsidian-DC29/tree/main/Forensics/Memory
+
 
 # Warning!!!  Simulated malicious activity
 The data contained in this repository contains simulated malicious activity for educational purposes and may be detected as malicious activity on your machine.
